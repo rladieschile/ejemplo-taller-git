@@ -4,12 +4,13 @@ Estamos usando este repositorio como ejemplo en la sesión 4 del club de lectura
 ## Algunas personas que participaron en esta sesión:
 (editaremos este archivo en conjunto)
 
+
 0. Pep, un hermoso gato naranjo de la V región.
 1. Riva, desde el cerro San Juan de Dios, en Valparaíso
 2. Alejandra, desde Santiago
 3. Gaby, desde Santiago
 4. Steph, desde Santiago
-5. ...
+5. Cristián Ayala, Santiago.
 6. ...
 7. Natalia, desde Chillán
 8. ...
